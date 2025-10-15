@@ -171,7 +171,8 @@ def print_statistics(holding_times, positions):
 
 def main():
     # 用户地址
-    user_address = "0x5c9c9ab381c841530464ef9ee402568f84c3b676"
+    # user_address = "0x5c9c9ab381c841530464ef9ee402568f84c3b676"
+    user_address = "0xf709deb9ca069e53a31a408fde397a87d025a352"
     
     print(f"正在获取用户 {user_address} 的交易记录...\n")
     
